@@ -6,6 +6,8 @@ Este repositório documenta a execução de um projeto prático de ciberseguran�
 
 O cenário simula uma auditoria de segurança em sistemas legados, onde foram identificados três vetores de ataque potenciais: um servidor FTP, um painel de login web e um compartilhamento de arquivos via SMB.
 
+Os screenshots contendo a execução dos comandos e resultados das atividades práticas podem ser visualizados [CLICANDO AQUI](screenshots).
+
 * **Ambiente:** VirtualBox, Kali Linux (máquina do atacante), Metasploitable 2 (máquina alvo).
 * **Ferramentas Principais:** `nmap`, `medusa`, `ftp`, `smbclient`.
 
